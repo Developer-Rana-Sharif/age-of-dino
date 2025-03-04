@@ -20,8 +20,7 @@ This website provides information about various dinosaurs, including their names
 - **Carnotaurus** (কার্নোটরাস)
 - **Tsintaosaurus** (সিনটাওসরাস)
 
-## ⚖️ Disclaimer
-- This project is **not affiliated** with any of the mentioned companies.  
+## ⚖️ Disclaimer 
 - All trademarks, logos, and brand names belong to their respective owners.  
 - The website is created purely for **learning and educational purposes**.
 
